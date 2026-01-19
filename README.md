@@ -15,6 +15,7 @@ The validation metric used in this repo is the perplexity (a mean field approxim
 
 The code is inspired from these repositories:
 
+
 | Purpose                     | Repository                                                                 |
 |----------------------------:|----------------------------------------------------------------------------|
 | standard RSM                | https://github.com/wtang0512/Replicated-Softmax-Model                      |
