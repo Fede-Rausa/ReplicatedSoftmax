@@ -7,7 +7,7 @@ These are Topic Models based on the concept of the Restricted Boltzmann Machines
 
 The over-RSM is really a fancy modification of the RSM that gives it the structure of a deep Boltzmann Machine.
 
-This implementation is the first to use Mean Field Contrastive Duvergence, Persistent Contrastive Divergence, L1 penalization and gradient descent optimization (momentum, RMSprop, Adam)
+This implementation is the first to use Mean Field Contrastive Divergence, Persistent Contrastive Divergence, L1 penalization and gradient descent optimization (momentum, RMSprop, Adam, Adagrad)
 for this topic model. Inside OCTIS is also possible to tweak the hyperparameters using bayesian optimization.
 
 The validation metric used in this repo is the perplexity (a mean field approximation of it), while inside OCTIS is also possible to compute other common metrics like classification and coherence. 
