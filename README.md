@@ -15,16 +15,12 @@ The validation metric used in this repo is the perplexity (a mean field approxim
 
 The code is inspired from these repositories:
 
-+-------------------------------------------+-----------------------------------------------------------+
-| for standard RSM             | https://github.com/wtang0512/Replicated-Softmax-Model                        |
-+-------------------------------------------+-----------------------------------------------------------+
-| for standard RSM             | https://github.com/fylance/rsm                          |
-+-------------------------------------------+-----------------------------------------------------------+
-| for over-RSM             | https://github.com/dongwookim-ml/RSM                          |
-+-------------------------------------------+-----------------------------------------------------------+
-| for standard RBM             | https://github.com/mr-easy/Restricted-Boltzmann-Machine                      |
-+-------------------------------------------+-----------------------------------------------------------+
-| for topic modeling framework             | https://github.com/MIND-Lab/OCTIS                     |
-+-------------------------------------------+-----------------------------------------------------------+
+| Purpose                     | Repository                                                                 |
+|----------------------------:|----------------------------------------------------------------------------|
+| standard RSM                | https://github.com/wtang0512/Replicated-Softmax-Model                      |
+| standard RSM                | https://github.com/fylance/rsm                                             |
+| over-RSM                    | https://github.com/dongwookim-ml/RSM                                       |
+| standard RBM                | https://github.com/mr-easy/Restricted-Boltzmann-Machine                    |
+| topic
 
 
